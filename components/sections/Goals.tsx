@@ -40,7 +40,7 @@ export function Goals({ t }: GoalsProps) {
           {goals.map((goal, index) => (
               <Card
               key={index}
-              className="border-2 border-[#EB5C7F]/20 hover:border-[#EB5C7F] transition-all duration-300 hover:shadow-lg hover:-translate-y-1 bg-white hover-scale"
+              className="pt-6 border-2 border-[#EB5C7F]/20 hover:border-[#EB5C7F] transition-all duration-300 hover:shadow-lg hover:-translate-y-1 bg-white"
             >
               <CardHeader>
                 <div className="mb-4 text-4xl">{goal.icon}</div>

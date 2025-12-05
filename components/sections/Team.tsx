@@ -40,7 +40,7 @@ export function Team({ t, language }: TeamProps) {
                         {teamData.currentBureau.members.map((member, index) => (
                             <Card
                                 key={index}
-                                className="overflow-hidden hover:shadow-xl transition-all duration-300 hover:-translate-y-2 border-t-4 border-t-primary hover-lift"
+                                className="overflow-hidden hover:shadow-xl transition-all duration-300 hover:-translate-y-2 border-t-4 border-t-primary "
                             >
                                 <div className="relative w-full h-[280px] sm:h-[350px] lg:h-[400px] bg-gradient-to-br from-primary/10 to-secondary/10">
                                     <img
