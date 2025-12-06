@@ -3,32 +3,32 @@
         "title": "Our Goals",
         "items": [
             {
-                "icon": "??",
+                "icon": "🎯",
                 "title": "Awareness",
                 "description": "Raise awareness within the university community about children's issues and the work of SOS Village d'Enfants."
             },
             {
-                "icon": "??",
+                "icon": "🤝",
                 "title": "Solidarity",
                 "description": "Promote the values of solidarity and mutual aid on campus and beyond."
             },
             {
-                "icon": "??",
+                "icon": "💝",
                 "title": "Fundraising",
                 "description": "Organize events and activities to raise funds for SOS Village d'Enfants."
             },
             {
-                "icon": "??",
+                "icon": "🎓",
                 "title": "Student Engagement",
                 "description": "Encourage students to get involved in charitable and civic initiatives."
             },
             {
-                "icon": "??",
+                "icon": "🌐",
                 "title": "National Network",
                 "description": "Build a strong network among SOS Village d'Enfants clubs in Tunisian universities."
             },
             {
-                "icon": "??",
+                "icon": "📅",
                 "title": "Events",
                 "description": "Host regular events (conferences, workshops, recreational activities) for children supported by SOS Village."
             }
@@ -38,32 +38,32 @@
         "title": "Nos Objectifs",
         "items": [
             {
-                "icon": "??",
+                "icon": "🎯",
                 "title": "Sensibilisation",
                 "description": "Sensibiliser la communauté universitaire aux problématiques de l'enfance en difficulté et aux actions de SOS Village d'Enfants."
             },
             {
-                "icon": "??",
+                "icon": "🤝",
                 "title": "Solidarité",
                 "description": "Promouvoir les valeurs de solidarité et d'entraide sur le campus et au-delà."
             },
             {
-                "icon": "??",
+                "icon": "💝",
                 "title": "Collecte de Fonds",
                 "description": "Organiser des événements et des activités pour collecter des fonds au profit de SOS Village d'Enfants."
             },
             {
-                "icon": "??",
+                "icon": "🎓",
                 "title": "Engagement Étudiant",
                 "description": "Encourager l'engagement des étudiants dans des initiatives caritatives et citoyennes."
             },
             {
-                "icon": "??",
+                "icon": "🌐",
                 "title": "Réseau National",
                 "description": "Créer un réseau solide entre les clubs SOS Village d'Enfants des universités tunisiennes."
             },
             {
-                "icon": "??",
+                "icon": "📅",
                 "title": "Événements",
                 "description": "Proposer régulièrement des événements (conférences, ateliers, activités récréatives) pour les enfants soutenus par SOS Village."
             }
@@ -73,34 +73,34 @@
         "title": "أهدافنا",
         "items": [
             {
-                "icon": "??",
+                "icon": "🎯",
                 "title": "التوعية",
-                "description": "رفع وعي المجتمع الجامعي بقضايا الطفولة ودور SOS Village d'Enfants."
+                "description": "رفع الوعي داخل المجتمع الجامعي حول قضايا الأطفال وعمل SOS قرى الأطفال."
             },
             {
-                "icon": "??",
+                "icon": "🤝",
                 "title": "التضامن",
-                "description": "تعزيز قيم التضامن والتعاون داخل الجامعة وخارجها."
+                "description": "تعزيز قيم التضامن والتعاون داخل الحرم الجامعي وخارجه."
             },
             {
-                "icon": "??",
+                "icon": "💝",
                 "title": "جمع التبرعات",
-                "description": "تنظيم فعاليات وأنشطة لجمع التبرعات لصالح SOS Village d'Enfants."
+                "description": "تنظيم فعاليات وأنشطة لجمع التبرعات لصالح SOS قرى الأطفال."
             },
             {
-                "icon": "??",
-                "title": "مشاركة الطلبة",
-                "description": "تشجيع الطلبة على الانخراط في مبادرات خيرية ومواطنة."
+                "icon": "🎓",
+                "title": "مشاركة الطلاب",
+                "description": "تشجيع الطلبة على الانخراط في المبادرات الخيرية والمواطنة."
             },
             {
-                "icon": "??",
+                "icon": "🌐",
                 "title": "شبكة وطنية",
-                "description": "بناء شبكة قوية بين أندية SOS Village d'Enfants في الجامعات التونسية."
+                "description": "بناء شبكة قوية بين نوادي SOS قرى الأطفال في الجامعات التونسية."
             },
             {
-                "icon": "??",
-                "title": "فعاليات",
-                "description": "تنظيم فعاليات منتظمة (مؤتمرات، ورشات، أنشطة ترفيهية) للأطفال الذين ترعاهم SOS Village."
+                "icon": "📅",
+                "title": "الفعاليات",
+                "description": "تنظيم فعاليات منتظمة (مؤتمرات، ورش عمل، أنشطة ترفيهية) للأطفال المدعومين من SOS قرى الأطفال."
             }
         ]
     }

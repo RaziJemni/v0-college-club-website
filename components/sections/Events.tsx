@@ -226,7 +226,7 @@ export function Events({ t, language }: EventsProps) {
                                             return (
                                                 <Card
                                                     key={index}
-                                                    className={`border-2 border-primary/50 hover:shadow-lg transition-all duration-300 cursor-pointer hover:-translate-y-1 overflow-hidden hover-lift ${
+                                                    className={`border-2 border-primary/50 hover:shadow-lg transition-all duration-300 cursor-pointer hover:-translate-y-1 overflow-hidden ${
                                                         eventsData
                                                             .upcomingEvents
                                                             .length === 1
