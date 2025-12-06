@@ -1,7 +1,7 @@
 {
     "en": {
         "title": "Join Our Club",
-        "subtitle": "Interested in becoming a member? Fill out the form below and we'll get in touch with you!",
+        "subtitle": "Interested in becoming a member? Fill out the form below and we'll be in touch soon!",
         "form": {
             "fullname": "Full Name",
             "fullnamePlaceholder": "Enter your full name",
@@ -16,17 +16,17 @@
             "year": "Year of Study",
             "yearPlaceholder": "Select your year",
             "motivation": "Why do you want to join our club?",
-            "motivationPlaceholder": "Tell us about your interests and what you hope to gain...",
+            "motivationPlaceholder": "Tell us about your interests and what you hope to get out of it...",
             "submit": "Register",
-            "success": "Thank you for your registration! We will contact you soon.",
+            "success": "Thank you for registering! We will contact you soon.",
             "error": "Something went wrong. Please try again."
         }
     },
     "fr": {
-        "title": "Rejoignez Notre Club",
-        "subtitle": "Intéressé(e) à devenir membre ? Remplissez le formulaire ci-dessous et nous vous contacterons !",
+        "title": "Rejoignez notre club",
+        "subtitle": "Vous souhaitez devenir membre ? Remplissez le formulaire ci-dessous et nous vous recontacterons !",
         "form": {
-            "fullname": "Nom Complet",
+            "fullname": "Nom complet",
             "fullnamePlaceholder": "Entrez votre nom complet",
             "email": "Email",
             "emailPlaceholder": "votre.email@exemple.com",
@@ -38,19 +38,19 @@
             "studyFieldPlaceholder": "Votre filière d'études",
             "year": "Année d'études",
             "yearPlaceholder": "Sélectionnez votre année",
-            "motivation": "Pourquoi souhaitez-vous rejoindre notre club?",
-            "motivationPlaceholder": "Parlez-nous de vos intérêts et de ce que vous espérez gagner...",
+            "motivation": "Pourquoi souhaitez-vous rejoindre notre club ?",
+            "motivationPlaceholder": "Parlez-nous de vos centres d'intérêt et de ce que vous espérez en retirer...",
             "submit": "S'inscrire",
-            "success": "Merci pour votre inscription! Nous vous contacterons bientôt.",
-            "error": "Quelque chose s'est mal passé. Veuillez réessayer."
+            "success": "Merci pour votre inscription ! Nous vous contacterons bientôt.",
+            "error": "Un problème est survenu. Veuillez réessayer."
         }
     },
     "ar": {
         "title": "انضم إلى نادينا",
-        "subtitle": "هل ترغب أن تصبح عضوًا؟ املأ النموذج وسنعود إليك!",
+        "subtitle": "هل ترغب في أن تصبح عضوًا؟ املأ النموذج وسنتواصل معك قريبًا!",
         "form": {
             "fullname": "الاسم الكامل",
-            "fullnamePlaceholder": "أدخل اسمك الكامل",
+            "fullnamePlaceholder": "اكتب اسمك الكامل",
             "email": "البريد الإلكتروني",
             "emailPlaceholder": "your.email@example.com",
             "phone": "الهاتف",
@@ -58,14 +58,14 @@
             "university": "الجامعة/المدرسة",
             "universityPlaceholder": "جامعتك أو مدرستك",
             "studyField": "التخصص",
-            "studyFieldPlaceholder": "تخصصك الدراسي",
+            "studyFieldPlaceholder": "مجال دراستك",
             "year": "سنة الدراسة",
             "yearPlaceholder": "اختر سنتك",
             "motivation": "لماذا تريد الانضمام إلى نادينا؟",
-            "motivationPlaceholder": "أخبرنا عن اهتماماتك وما تأمل تحقيقه...",
+            "motivationPlaceholder": "حدّثنا عن اهتماماتك وما تتطلع إلى تحقيقه...",
             "submit": "تسجيل",
             "success": "شكرًا لتسجيلك! سنتواصل معك قريبًا.",
-            "error": "حدث خطأ. الرجاء المحاولة مرة أخرى."
+            "error": "حدث خطأ ما. الرجاء المحاولة مرة أخرى."
         }
     }
 }

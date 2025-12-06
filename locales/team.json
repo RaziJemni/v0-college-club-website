@@ -9,7 +9,7 @@
     },
     "fr": {
         "title": "Notre Bureau",
-        "viewPreviousBureaus": "Voir les Anciens Bureaux",
+        "viewPreviousBureaus": "Voir les anciens bureaux",
         "previousBureausTitle": "Anciens Bureaux",
         "noPreviousBureaus": "Aucun ancien bureau à afficher",
         "prevButton": "Précédent",
@@ -19,7 +19,7 @@
         "title": "مكتبنا",
         "viewPreviousBureaus": "عرض المكاتب السابقة",
         "previousBureausTitle": "المكاتب السابقة",
-        "noPreviousBureaus": "لا توجد مكاتب سابقة لعرضها",
+        "noPreviousBureaus": "لا توجد مكاتب سابقة للعرض",
         "prevButton": "السابق",
         "nextButton": "التالي"
     }

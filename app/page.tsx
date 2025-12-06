@@ -14,10 +14,8 @@ import { Footer } from "@/components/sections/Footer";
 export default function Home() {
     const [language, setLanguage] = useState<Language>("en");
 
-    const toggleLanguage = () => {
-        setLanguage((prev) =>
-            prev === "en" ? "fr" : prev === "fr" ? "ar" : "en"
-        );
+    const handleLanguageChange = (lang: Language) => {
+        setLanguage(lang);
     };
 
     useEffect(() => {
@@ -34,7 +32,7 @@ export default function Home() {
             <Navigation
                 t={t}
                 currentLanguage={language}
-                onLanguageToggle={toggleLanguage}
+                onLanguageChange={handleLanguageChange}
             />
             <Hero t={t} />
             <About t={t} />

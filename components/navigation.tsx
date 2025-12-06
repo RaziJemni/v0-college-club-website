@@ -14,13 +14,13 @@ import type { Language, Translations } from "@/lib/translations";
 interface NavigationProps {
     t: Translations;
     currentLanguage: Language;
-    onLanguageToggle: () => void;
+    onLanguageChange: (language: Language) => void;
 }
 
 export function Navigation({
     t,
     currentLanguage,
-    onLanguageToggle,
+    onLanguageChange,
 }: NavigationProps) {
     const [isScrolled, setIsScrolled] = useState(false);
     const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
@@ -96,7 +96,7 @@ export function Navigation({
                             </Button>
                             <LanguageToggle
                                 currentLanguage={currentLanguage}
-                                onToggle={onLanguageToggle}
+                                onChange={onLanguageChange}
                             />
                         </div>
 
@@ -104,7 +104,7 @@ export function Navigation({
                         <div className="flex md:hidden items-center gap-2">
                             <LanguageToggle
                                 currentLanguage={currentLanguage}
-                                onToggle={onLanguageToggle}
+                                onChange={onLanguageChange}
                             />
                             <Button
                                 variant="ghost"
